@@ -110,10 +110,10 @@ h3.ja-title {
 }
 
 /* ドットの下線 */
-h3.ja-title .blue-dot {
+/* h3.ja-title .blue-dot {
 	border-bottom: dotted 12px #8EDCF6;
 	padding-bottom: 10px;
-}
+} */
 
 h3.ja-title .pink-dot {
 	border-bottom: dotted 12px #F4A7CB;
@@ -124,6 +124,19 @@ h3.ja-title .yellow-dot {
 	border-bottom: dotted 12px #FFF07F;
 	padding-bottom: 10px;
 }
+
+svg{
+	width:405px;
+	height:20px;
+}
+svg line{
+	fill: none;
+	stroke: #f00;
+	stroke-width: 10;
+	stroke-linecap: round;
+	stroke-dasharray: 0.5, 20;
+}
+
 
 p.main-text {
 	font-size: 30px;
