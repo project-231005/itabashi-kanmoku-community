@@ -125,10 +125,11 @@ h3.ja-title .yellow-dot {
 	padding-bottom: 10px;
 }
 
-/* svg{
-	width:405px;
-	height:20px;
-} */
+svg{
+	width: auto;
+	height: 30px;
+}
+
 svg line {
 	fill: none;
 	stroke: #8EDCF6;
