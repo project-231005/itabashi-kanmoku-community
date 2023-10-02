@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-	font-family: 'DIN 2014', "Oswald", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+	font-family: 'DIN 2014', "Oswald", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", 'Noto Sans JP', sans-serif;
 	color: #2F2A1C;
 	background-color: #ffffff;
 }
