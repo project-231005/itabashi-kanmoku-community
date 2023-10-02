@@ -489,10 +489,10 @@ footer p.main-text::before {
 	}
 	
 	/* ドットの下線 */
-	h3.ja-title .blue-dot {
+	/* h3.ja-title .blue-dot {
 		border-bottom: dotted 6px #8EDCF6;
 		padding-bottom: 0;
-	}
+	} */
 	
 	h3.ja-title .pink-dot {
 		border-bottom: dotted 6px #F4A7CB;
