@@ -125,6 +125,10 @@ h3.ja-title .yellow-dot {
 	padding-bottom: 10px;
 }
 
+svg line {
+  fill: none;
+}
+
 .line1 {
   stroke: #09d;
   stroke-width: 10;
