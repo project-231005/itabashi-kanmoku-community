@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-	font-family: 'DIN 2014', 'Akshar', "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", 'Noto Sans JP', sans-serif;
+	font-family: 'DIN 2014', "Oswald", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 	color: #2F2A1C;
 	background-color: #ffffff;
 }
@@ -110,10 +110,10 @@ h3.ja-title {
 }
 
 /* ドットの下線 */
-/* h3.ja-title .blue-dot {
+h3.ja-title .blue-dot {
 	border-bottom: dotted 12px #8EDCF6;
 	padding-bottom: 10px;
-} */
+}
 
 h3.ja-title .pink-dot {
 	border-bottom: dotted 12px #F4A7CB;
@@ -123,6 +123,15 @@ h3.ja-title .pink-dot {
 h3.ja-title .yellow-dot {
 	border-bottom: dotted 12px #FFF07F;
 	padding-bottom: 10px;
+}
+
+p.main-text {
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: 0.07em;
+	line-height: 2.2;
+	text-align: center;
+	margin: 75px 0;
 }
 
 p.text {
@@ -467,10 +476,10 @@ footer p.main-text::before {
 	}
 	
 	/* ドットの下線 */
-	/* h3.ja-title .blue-dot {
+	h3.ja-title .blue-dot {
 		border-bottom: dotted 6px #8EDCF6;
 		padding-bottom: 0;
-	} */
+	}
 	
 	h3.ja-title .pink-dot {
 		border-bottom: dotted 6px #F4A7CB;
