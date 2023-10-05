@@ -125,7 +125,7 @@ h3.ja-title .yellow-dot {
 	padding-bottom: 10px;
 }
 
-svg{
+/* svg{
 	width: auto;
 	height: 30px;
 }
@@ -137,7 +137,7 @@ svg line {
 	stroke-linecap: round;
 	stroke-dasharray: 1, 20;
 	stroke-dashoffset: 3;
-}
+} */
 
 
 p.main-text {
