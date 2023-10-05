@@ -125,18 +125,6 @@ h3.ja-title .yellow-dot {
 	padding-bottom: 10px;
 }
 
-svg line {
-  fill: none;
-}
-
-.line1 {
-  stroke: #09d;
-  stroke-width: 10;
-  stroke-linecap: round;
-  stroke-dasharray: 1, 20;
-  stroke-dashoffset: 3;
-}
-
 p.text {
 	font-size: 20px;
 	font-weight: 600;
